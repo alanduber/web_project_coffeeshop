@@ -228,7 +228,7 @@
   line-height: 30px;
 }
 
-iframe {
+.recipes__inframe {
   border-width: 0px;
   width: 480px;
   height: 273px;
