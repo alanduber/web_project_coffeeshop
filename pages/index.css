@@ -40,7 +40,7 @@
   line-height: 72px;
   letter-spacing: 0.6px;
 }
-.header__title_special {
+.header__font--special {
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
@@ -78,7 +78,7 @@
   justify-content: space-between;
   box-sizing: border-box;
 }
-.header__footer_times {
+.header__footer--times {
   list-style: none;
   position: relative;
   left: 80px;
@@ -215,7 +215,7 @@
   row-gap: 24px;
 }
 
-.recipes__video_subtitle {
+.recipes__video-caption--subtitle {
   display: flex;
   justify-content: space-between;
   color: #ffffff;
