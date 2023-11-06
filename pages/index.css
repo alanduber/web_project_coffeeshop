@@ -1,7 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-}
 /*-------------------------------------PAGE--------------------------*/
 .page {
   min-width: 1100px;
@@ -78,7 +74,7 @@
   justify-content: space-between;
   box-sizing: border-box;
 }
-.header__footer--times {
+.header__footer-times {
   list-style: none;
   position: relative;
   left: 80px;
@@ -191,7 +187,6 @@
 
 .recipes__videos {
   display: flex;
-  flex-direction: row;
   margin-top: 204px;
   justify-content: center;
   gap: 40px;
@@ -228,7 +223,7 @@
   line-height: 30px;
 }
 
-.recipes__inframe {
+.recipes__iframe {
   border-width: 0px;
   width: 480px;
   height: 273px;
