@@ -39,14 +39,18 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  margin-bottom: 16px;
 }
 
-.foote__social-heading {
+.footer__social-heading {
   font-family: "Inter";
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
+  list-style-type: none;
+  margin-top: 0px;
+  color: #fff;
 }
 
 .footer__social-link {
